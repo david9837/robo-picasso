@@ -1,0 +1,16 @@
+This workspace is for Group 6 major project: A pointillism portrait painting robot called 'Robo Picasso.'
+
+
+
+
+As we re-used the assignment 1 framework to quickly get the arm working, we re-used the assignment_1 package. we tried to changed the name but met too m any errors so left it as is. Our source code can be found in : '~/src/assignment_1/scripts'
+
+To run out code:
+
+1. Open five (5) terminal windows and change directory to the workspace
+2. 'source devel/setup.bash' for each window
+3. In window 1 run roscore
+4. In window 2 run 'roslaunch assignment_1 ur5e_ass1.launch'
+5. in windor 3 run 'roslaunch ur5_e_moveit_config ur5_e_moveit_planning_execution.launch sim:=true'
+6. In window 4 run 'roslaunch ur5_e_moveit_config moveit_rviz.launch config:=true'
+7. In window 5 run 'rosrun assignment_1 Robo_Picasso.py' 

@@ -1,0 +1,4 @@
+Symlinking /home/gailey_da/catkin_ws_mp/devel/lib/python2.7/dist-packages/robotiq_modbus_rtu/__init__.py
+Symlinking /home/gailey_da/catkin_ws_mp/devel/lib/pkgconfig/robotiq_modbus_rtu.pc
+Symlinking /home/gailey_da/catkin_ws_mp/devel/share/robotiq_modbus_rtu/cmake/robotiq_modbus_rtuConfig-version.cmake
+Symlinking /home/gailey_da/catkin_ws_mp/devel/share/robotiq_modbus_rtu/cmake/robotiq_modbus_rtuConfig.cmake

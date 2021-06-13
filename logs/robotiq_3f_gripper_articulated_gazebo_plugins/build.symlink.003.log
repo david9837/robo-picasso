@@ -1,0 +1,4 @@
+Symlinking /home/gailey_da/catkin_ws_mp/devel/lib/libRobotiqHandPlugin.so
+Symlinking /home/gailey_da/catkin_ws_mp/devel/lib/pkgconfig/robotiq_3f_gripper_articulated_gazebo_plugins.pc
+Symlinking /home/gailey_da/catkin_ws_mp/devel/share/robotiq_3f_gripper_articulated_gazebo_plugins/cmake/robotiq_3f_gripper_articulated_gazebo_pluginsConfig.cmake
+Symlinking /home/gailey_da/catkin_ws_mp/devel/share/robotiq_3f_gripper_articulated_gazebo_plugins/cmake/robotiq_3f_gripper_articulated_gazebo_pluginsConfig-version.cmake

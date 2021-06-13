@@ -1,0 +1,8 @@
+prefix=/home/gailey_da/catkin_ws_mp/install
+
+Name: gazebo_ros_link_attacher
+Description: Description of gazebo_ros_link_attacher
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

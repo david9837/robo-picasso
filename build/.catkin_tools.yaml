@@ -1,0 +1,6 @@
+devel_space: /home/gailey_da/catkin_ws_mp/devel
+install: false
+install_space: /home/gailey_da/catkin_ws_mp/install
+profile: default
+source_space: /home/gailey_da/catkin_ws_mp/src
+workspace: /home/gailey_da/catkin_ws_mp

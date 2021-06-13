@@ -1,0 +1,4 @@
+Symlinking /home/gailey_da/catkin_ws_mp/devel/lib/libur_controllers.so
+Symlinking /home/gailey_da/catkin_ws_mp/devel/lib/pkgconfig/ur_controllers.pc
+Symlinking /home/gailey_da/catkin_ws_mp/devel/share/ur_controllers/cmake/ur_controllersConfig-version.cmake
+Symlinking /home/gailey_da/catkin_ws_mp/devel/share/ur_controllers/cmake/ur_controllersConfig.cmake

@@ -1,0 +1,4 @@
+Symlinking /home/gailey_da/catkin_ws_mp/devel/lib/pkgconfig/controller_stopper.pc
+Symlinking /home/gailey_da/catkin_ws_mp/devel/lib/controller_stopper/node
+Symlinking /home/gailey_da/catkin_ws_mp/devel/share/controller_stopper/cmake/controller_stopperConfig.cmake
+Symlinking /home/gailey_da/catkin_ws_mp/devel/share/controller_stopper/cmake/controller_stopperConfig-version.cmake

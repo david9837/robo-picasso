@@ -1,0 +1,8 @@
+prefix=/home/gailey_da/catkin_ws_mp/devel/.private/assignment_1
+
+Name: assignment_1
+Description: Description of assignment_1
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,4 @@
+Symlinking /home/gailey_da/catkin_ws_mp/devel/lib/python2.7/dist-packages/robotiq_modbus_tcp/__init__.py
+Symlinking /home/gailey_da/catkin_ws_mp/devel/lib/pkgconfig/robotiq_modbus_tcp.pc
+Symlinking /home/gailey_da/catkin_ws_mp/devel/share/robotiq_modbus_tcp/cmake/robotiq_modbus_tcpConfig-version.cmake
+Symlinking /home/gailey_da/catkin_ws_mp/devel/share/robotiq_modbus_tcp/cmake/robotiq_modbus_tcpConfig.cmake
